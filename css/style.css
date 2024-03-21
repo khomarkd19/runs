@@ -28,11 +28,11 @@ a:hover{
     padding: 1%
 }
 .main-container{
-    margin-left: 400px;
+    /* margin-left: 400px; */
     text-align: justify;
 }
 .fs-2{
-    color: rgb(213, 168, 255);
+    color: rgb(153, 0, 255);
 }
 p{
     padding-top: 0;
@@ -43,11 +43,21 @@ p{
     padding-top: 0;
     margin-bottom: 0;
     padding-bottom: 0;
+    font-size: 50px;
+    text-align: center;
 }
 .fs-4{
     margin-bottom: 0;
+    text-align: center;
     
 }
 body{
-    background-color: gray;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(250,150,205,1) 43%, rgba(148,187,233,1) 100%);
+   
+}
+.para{
+    text-align: center;
+    
+    
 }
