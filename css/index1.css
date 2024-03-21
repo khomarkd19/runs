@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+.box{
+    background-color: black;
+    color: white;
+
+    border-radius: 40px;
+
+    margin: 5%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+}
+.heads{
+    font-size: 3rem;
+}
+li{
+    margin-top: 5%;
+    margin-left: 5%;
+}
