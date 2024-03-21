@@ -4,10 +4,10 @@ import {imagess} from "./img.js"
 let container = document.getElementById("container")
 
 const data = {
-title :"Mark's Property of Things",
-para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. In ipsam natus pariatur, totam reprehenderit nemo quas ducimus, vel possimus inventore dolorem.",
+title :"Mark Dionis Paguia Kho",
+para: "dynamic individual with a passion for innovation and creativity. With a keen eye for detail and a drive for excellence, Mark continually seeks new opportunities to grow and make a positive impact. His diverse skill set and unwavering dedication set him apart, allowing him to thrive in various endeavors.",
 images:"mark.jpg",
-buttonOne:"About me",
+buttonOne:"Contact",
 buttonTwo:"Learn more"
 }
 

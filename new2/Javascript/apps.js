@@ -10,8 +10,8 @@ let sectionTwo = document.getElementById("sectionTwo")
 
 
 const dataPne = {
-    title : "This is it",
-    para : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quasi velit odit optio inventore ut quis, reprehenderit unde quaerat molestiae doloribus corporis nesciunt laboriosam cupiditate sit tempora! Odit, vel iste!",                   
+    title : "Huge Ideas, but small action",
+    para : "Having plans  on  mind but dont know how to do?",                   
     button: "Contact Us",
     image: "manthinking.png"
 }
@@ -26,15 +26,15 @@ const dataTwo = {
     image3: "businessCard1.png",
     image4: "businessCard2.png",
 
-    betext : "cards",
+    betext : "Mark Dionis Kho",
     para1 : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quasi velit odit optio inventore ut quis, reprehenderit unde quaerat molestiae doloribus corporis nesciunt laboriosam cupiditate sit tempora! Odit, vel iste!",
     button1: "Contact Us",
 
-    title2 : "cards",
+    title2 : "CreateBox",
     para2 : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quasi velit odit optio inventore ut quis, reprehenderit unde quaerat molestiae doloribus corporis nesciunt laboriosam cupiditate sit tempora! Odit, vel iste!",
     button2: "Contact Us",
 
-    title3 : "cards",
+    title3 : "Graplution",
     para3 : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quasi velit odit optio inventore ut quis, reprehenderit unde quaerat molestiae doloribus corporis nesciunt laboriosam cupiditate sit tempora! Odit, vel iste!",
     button3: "Contact Us",
    

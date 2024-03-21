@@ -2,13 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color:aliceblue;
+    color:black;
+}
+body{
+    background-color: #9c89b8;
 }
 .info1{
     
     margin-top: 15%;
-    margin-right: 10%;
-    width: fit-content;
+
+    width: 500px;
     height: 200px;
     /* background-color: aqua; */
 }
@@ -17,32 +20,40 @@
     margin-left: 1%;
     margin-right: 1%;
     padding: 10%;
+    padding-left: 15%;
     display: flex;
-    background-color:#505a68;
+    background-color:#b8bedd;
+    height: 800px;
+    border-radius: 40px;
+    margin-bottom: 20px;
 }
 #sectionTwo{
     margin-left: 1%;
     margin-right: 1%;
     padding: 10%;
-    background-color: #505a68;
+    padding-right: 20%;
+    background-color: #f0a6ca;
+    border-radius: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
-#sectionTwo .pic2{
-    height: 100px;
-    width: 150px;
-    margin-right: 10px;
-    display: inline-flexbox;
-}
+
 .pic1{
-    height: 300px;
-    width: 300px;
-    margin-right: 15%;
-    padding-right: 15%;
+    margin-top: 20px;
+    height: 500px;
+    width: 500px;
+    padding-left: 0;
+    padding-right: 10%;
+    margin-left: 300px;
 }
 .re{
-    height: 100px;
-    width: 150px;
-    margin-right: 20px;
+    width: 250px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
     
 }
 #uyt{
@@ -51,18 +62,32 @@
 .info2{
     text-align: center;
 }
-.btn{
+.btn2{
     margin-top: 5%;
-    height: 30px;
-    width: 80px;
+    height: 50px;
+    width: 100px;
     padding: 5px;
     color: #222831;
-    background-color: #76ABAE;
-    border: 1px solid #76ABAE;
+    background-color: #9c89b8;
+    border: 1px solid #9c89b8;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn{
+    margin-top: 5%;
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+    color: #222831;
+    background-color: #9c89b8;
+    border: 1px solid #9c89b8;
     border-radius: 20px;
 }
 .firstCard{
     margin-left: 30px;
+    margin-right: 30px;
     width: 25%;
     height: auto;
     display: inline-block;
@@ -70,4 +95,32 @@
 }
 #box1{
     margin-left: 10%;
+}
+.heads{
+    text-align: center;
+}
+.mainIdea{
+    margin-left: 10%;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.navbar{
+    padding-left: 20px;
+    display: flex;
+    background-color: #9c89b8;
+    height: 50px;
+}
+li{
+    font-size: 20px;
+    list-style: none;
+    margin: 10px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: #f0a6ca;
+    border-radius: 40px;
 }
